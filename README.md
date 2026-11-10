@@ -1,14 +1,5 @@
 # 🤖 PENETRATION TESTING REPORT
 ## FOOTPRINTING & RECONNAISSANCE AND NETWORK SCANNING
-
-<div align="center">
-
-![Cybersecurity](https://img.shields.io/badge/Skill-Cybersecurity-red)
-![Penetration Testing](https://img.shields.io/badge/Focus-Penetration%20Testing-critical)
-![Kali Linux](https://img.shields.io/badge/Platform-Kali%20Linux-black)
-![Windows](https://img.shields.io/badge/Platform-Windows-blue)
-![Networkwalks](https://img.shields.io/badge/Internship-Networkwalks-orange)
-
 **👨‍💻 Pentester: Sanyam Maurya**
 
 ---
