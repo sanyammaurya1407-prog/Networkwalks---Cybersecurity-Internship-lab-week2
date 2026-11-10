@@ -362,41 +362,50 @@ The screenshot demonstrates domain registration details, registrar information, 
 
 **Evidence:** WHOIS terminal output.
 
+<img width="1920" height="1080" alt="2026-11-10 20_25_44-" src="https://github.com/user-attachments/assets/c67303d7-200f-412e-a0e6-d06f23717fd1" />
+
 ### 8.2 WhatWeb – Website Technology Fingerprinting
 
 The screenshot demonstrates the identification of Apache, WordPress 7.1.4, WP Download Manager 3.3.76, and other website technologies.
 
 **Evidence:** WhatWeb terminal output.
+<img width="1532" height="209" alt="2026-11-10 20_30_19-kali-linux-2025 4-virtualbox-amd64  Running  - Oracle VirtualBox" src="https://github.com/user-attachments/assets/22ca3719-299d-4440-9c66-9e189da1d10a" />
 
 ### 8.3 NSLookup – DNS Resolution
 
 The screenshot demonstrates the DNS resolution of `networkwalks.com`, including its IPv4 and IPv6-format addresses.
 
 **Evidence:** NSLookup terminal output.
+<img width="1516" height="191" alt="2026-11-10 20_31_28-kali-linux-2025 4-virtualbox-amd64  Running  - Oracle VirtualBox" src="https://github.com/user-attachments/assets/57fec96e-cfba-4b69-aa99-54d603fa3100" />
 
 ### 8.4 cURL – HTTP Response Header Analysis
 
 The screenshot demonstrates the HTTP 301 redirect response, Apache server information, and redirect destination.
 
 **Evidence:** cURL terminal output.
+<img width="1528" height="307" alt="2026-11-10 20_33_23-kali-linux-2025 4-virtualbox-amd64  Running  - Oracle VirtualBox" src="https://github.com/user-attachments/assets/87a68201-f669-4f10-a81f-34cabc49e984" />
 
 ### 8.5 WAFW00F – Web Application Firewall Detection
 
 The screenshot demonstrates the identification of ModSecurity (SpiderLabs) as the WAF technology.
 
 **Evidence:** WAFW00F terminal output.
+<img width="1513" height="336" alt="2026-11-10 20_34_47-kali-linux-2025 4-virtualbox-amd64  Running  - Oracle VirtualBox" src="https://github.com/user-attachments/assets/4762bcc9-8de3-4099-8d50-d923791eb15f" />
+
 
 ### 8.6 DNSRecon – DNS Enumeration
 
 The screenshot demonstrates DNS enumeration results, including NS, SOA, A, AAAA, MX, TXT, and SRV records, with 16 records reported.
 
 **Evidence:** DNSRecon terminal output.
+<img width="1516" height="622" alt="2026-11-10 20_36_26-kali-linux-2025 4-virtualbox-amd64  Running  - Oracle VirtualBox" src="https://github.com/user-attachments/assets/0fd73cef-31c0-408b-b1a9-e30fed71f307" />
 
 ### 8.7 Zenmap – Network Host Discovery
 
 The screenshot demonstrates the Ping Scan performed against `10.42.185.121`.
 
 **Evidence:** Zenmap scan output showing:
+<img width="1391" height="710" alt="2026-11-10 20_45_17-Zenmap" src="https://github.com/user-attachments/assets/f24b0ad2-2d07-43d4-a2c9-416e7e37b9b6" />
 
 - Target IP: `10.42.185.121`
 - Scan command: `nmap -sn 10.42.185.121`
